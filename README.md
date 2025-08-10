@@ -1,6 +1,4 @@
-# snake-game
-
-This is a snake game.
+# Snake Game Python Project
 
 To run the code:
 1. Make sure all files are in the same folder
